@@ -12,7 +12,7 @@ var bodyParser  =   require("body-parser");
 //
 var db     =   require("mongoose");
  //db.connect("mongodb://localhost:27017/registerdb");
-  db.connect("mongodb://miniproject:kareem@ds143900.mlab.com:43900/heroku_44cvmcvt");
+db.connect("mongodb://site:site@ds143990.mlab.com:43990/heroku_pbwpn8dh");
 
 app.use(bodyParser.urlencoded({extended:false}));
 app.use(express.static(__dirname+ '/public'));
