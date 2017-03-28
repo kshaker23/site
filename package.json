@@ -16,18 +16,18 @@
 
 
 },
-    "_id": "heroku_44cvmcvt.miniproject",
-    "user": "miniproject",
-    "db": "heroku_44cvmcvt",
+    "_id": "heroku_pbwpn8dh.site",
+    "user": "site",
+    "db": "heroku_pbwpn8dh",
     "roles": [
         {
             "role": "dbOwner",
-            "db": "heroku_44cvmcvt"
+            "db": "heroku_pbwpn8dh"
         }
     ]
+
 ,"engines":{
 "node":"0.12.7"
 }
 
 }
-
